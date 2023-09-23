@@ -1,0 +1,18 @@
+.background{
+    position:fixed;
+    top:0;
+    z-index:-1;
+    min-width:100%;
+    min-height:100%;
+    background: url("https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80");
+    background-size:cover;
+    filter:saturate(90%) grayscale(80%);
+}
+.uk-navbar{
+    position:sticky;
+    top:0;
+    z-index:999;
+}
+.uk-background-custom{
+    background-color:#313030d3;
+}
